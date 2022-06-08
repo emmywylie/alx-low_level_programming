@@ -1,4 +1,7 @@
+#include <stdlib.h>
+#include <time.h>
 #include <stdio.h>
+
 
 /**
  * main - prints the alphabets in lowercase, and then in uppercase
