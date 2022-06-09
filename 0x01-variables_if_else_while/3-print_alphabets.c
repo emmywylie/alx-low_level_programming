@@ -1,13 +1,13 @@
 #include <stdio.h>
 
-
 /**
- * main - prints the alphabets in lowercase, and then in uppercase
+ * main - Prints alphabets in lowercase, then in uppercase
  *
  * Return: Always 0
  */
 
-int main(0)
+int main(void)
+
 {
 	char letter;
 
@@ -20,4 +20,5 @@ int main(0)
 	putchar('\n');
 
 	return (0);
+
 }
