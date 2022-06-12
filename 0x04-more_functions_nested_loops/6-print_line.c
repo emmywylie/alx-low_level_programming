@@ -2,14 +2,14 @@
 
 /**
  * print_line - function that draws a straight line in the terminal
- * @n: number of times to print '_'
+ * @n: input number of times to print '_'
  * Return: a straight line
  */
 
 void print_line(int n)
 {
 
-	int ab;
+	int co;
 
 	if (n <= 0)
 	{
@@ -18,7 +18,7 @@ void print_line(int n)
 
 	else 
 	{
-		for ( ab = 1; ab <= n; ab++)
+		for (co = 1; co <= n; co++)
 		{
 			_putchar('_');
 		}
