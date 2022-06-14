@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * reset_to_98 - function that takes a pointer to an intas parameterand updates the value it prints to 98
- *
- * Return: Always 0
+ * reset_to_98 - function that resets value of pointer to 98
+ * @n: reset to 98
+ * Return: void
  */
 
 void reset_to_98(int *n)
