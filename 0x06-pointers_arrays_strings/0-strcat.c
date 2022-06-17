@@ -4,10 +4,10 @@
 /**
  * _strcat - concatenates the string pointed to by @src,
  * null byte, to the end of the string pointed to by @dest.
- * @dest: Apointer to the string to be concatenated upon
+ * @dest: A pointer to the string to be concatenated upon
  * @src: the source string to be appended to @dest
  *
- * Return: Apointer to the destination string @dest
+ * Return: A pointer to the destination string @dest
  */
 
 char *_strcat(char *dest, char *src)
